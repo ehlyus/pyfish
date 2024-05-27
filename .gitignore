@@ -1,0 +1,18 @@
+# Environments
+.env
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Miscellaneous
+*.bak
+*.swp
+*~
